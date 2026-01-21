@@ -1,90 +1,74 @@
-# 👩‍💻 Sumedha – Project Portfolio
+# 👩‍💻 Sumedha — Hackathon & Project Portfolio
 
-This repository showcases a selection of my personal, hackathon, and team-based projects.
-Some projects were built independently, while others were developed collaboratively during hackathons and team environments.
-My specific contributions are clearly outlined for each project.
+This repository collects a selection of my **hackathon and team projects**.  
+All projects below were developed collaboratively under time constraints (hackathons / sprint formats). For each project I list the original repo and a clear summary of **my contributions** so reviewers can quickly see what I actually built.
 
----
-
-## 🚀 Personal & Mostly-Solo Projects
-
-### 🌿 BreathePulse – AI-Powered Wellness Co-Pilot
-🔗 Repo: https://github.com/sumedha092/breathe-pulse
-
-**Overview:**
-An AI-powered desktop co-pilot designed to help users manage stress, improve focus, and optimize daily performance.
-
-**My Contributions:**
-- Built core application logic and UI using TypeScript
-- Designed user interaction flows and responsiveness
-- Integrated AI-driven features for wellness insights
-
-**Tech Stack:** TypeScript, JavaScript, AI APIs
+> Projects and descriptions are based on my project summary. (See Projects document for more context.) :contentReference[oaicite:1]{index=1}
 
 ---
 
-### 💰 Financial Chatbot
-🔗 Repo: https://github.com/sumedha092/Financial-Chatbot
+## 🚀 Featured Hackathon Projects
 
-**Overview:**
-A chatbot that assists users with financial queries and basic decision-making.
-
-**My Contributions:**
-- Implemented chatbot logic and conversation flow
-- Handled backend processing in Python
-- Focused on clarity and usability of responses
-
-**Tech Stack:** Python, NLP concepts
+### 🌿 BreathePulse — AI Wellness Assistant  
+🔗 Repo: `https://github.com/sumedha092/breathe-pulse`  
+**Overview:** Real-time, privacy-first wellness assistant delivering intelligent micro-breaks based on fatigue/stress signals.  
+**My Contributions:**  
+- Implemented core frontend components and UI flows using React + TypeScript.  
+- Integrated computer-vision signals (MediaPipe compiled to WASM) and wired them to the UI.  
+- Designed the interaction flow for micro-break prompts and feedback.  
+**Tech:** React, TypeScript, WebAssembly (MediaPipe), Zustand, FastAPI (optional).  
 
 ---
 
-## 🤝 Hackathon & Team Projects
-
-### 🏆 SunHacks 2024 – Hackathon Project
-🔗 Repo: https://github.com/sumedha092/SunHacks2024
-
-**Overview:**
-A hackathon project developed under time constraints as part of a collaborative team during SunHacks 2024.
-
-**My Contributions:**
-- Contributed to frontend development and UI structure
-- Collaborated closely with teammates to rapidly prototype features
-- Participated in ideation, debugging, and final integration
-
-**Tech Stack:** TypeScript, Web Technologies
+### 💬 Financial Chatbot — NLP Financial Assistant  
+🔗 Repo: `https://github.com/sumedha092/Financial-Chatbot`  
+**Overview:** Chatbot helping users with budgeting, stock trends, and basic finance Qs.  
+**My Contributions:**  
+- Implemented conversation flow, intent handling and backend integration (Python).  
+- Designed user-facing UI and ensured the bot responses were clear and usable.  
+**Tech:** Python, NLP libraries (spaCy / NLTK), Streamlit (deployment).
 
 ---
 
-### 🤖 Hackathon Project (Team Repository)
-🔗 Repo: https://github.com/anasm266/hackproj
-
-**Overview:**
-A collaborative hackathon project built as part of a team effort.
-
-**My Contributions:**
-- Actively involved in feature ideation and implementation
-- Contributed to frontend logic and application flow
-- Collaborated using GitHub and agile-style iteration under time pressure
-
-**Tech Stack:** Web Technologies
+### 🏆 SunHacks 2024 — (Hackathon Project)  
+🔗 Repo: `https://github.com/sumedha092/SunHacks2024`  
+**Overview:** Full-stack hackathon project built in a 24-hour sprint.  
+**My Contributions:**  
+- Led frontend implementation (React/Vite or TypeScript) and UI structure.  
+- Rapid prototyping, debugging, and integration of team features under time constraints.  
+**Tech:** TypeScript, React, Tailwind.
 
 ---
 
-### 🧠 Aithena – Team Project
-🔗 Repo: https://github.com/Aaxhirrr/Aithena
-
-**Overview:**
-A team-based project focused on building an intelligent application through collaborative development.
-
-**My Contributions:**
-- Assisted in frontend development and UI design
-- Worked closely with team members to integrate features
-- Contributed to testing, debugging, and refinement
-
-**Tech Stack:** JavaScript, Web Technologies
+### 🤝 Hackathon Project (team repo) — HackProj  
+🔗 Repo: `https://github.com/anasm266/hackproj`  
+**Overview:** Collaborative hackathon project (team-owned repo).  
+**My Contributions:**  
+- Contributed UI components and frontend logic.  
+- Participated in ideation, sprint planning, and final demo preparation.  
+**Tech:** Web technologies (frontend focus).
 
 ---
 
-## 📌 Notes
-- Team projects are linked to original repositories under respective owners.
-- My individual contributions are described above and reflected through collaboration history and project outcomes.
+### 🧠 Aithena — AI Study Partner Network  
+🔗 Repo: `https://github.com/Aaxhirrr/Aithena`  
+**Overview:** AI-powered study partner matching system built during a hackathon.  
+**My Contributions:**  
+- Worked on frontend interactions, swipe-based discovery UI and integration with backend endpoints.  
+- Helped wire up real-time features and testing during the event.  
+**Tech:** React, Firebase/Firestore, FastAPI (backend).
+
+---
+
+## 📌 Notes & How to verify my contributions
+- These repos are linked to original team owners. My specific contributions are summarized above and can be cross-checked in commit history, PRs, or release/demo notes in the original repos.  
+- If you want a quick walkthrough of any project, I can prepare a 3-slide Google Slides demo or short video showing my changes and the key files I authored.
+
+---
+
+## 📫 Contact & Links
+- GitHub: `https://github.com/sumedha092`  
+- Email: sgupt354@asu.edu
+- Resume: (link to PDF)
+
+---
