@@ -3,7 +3,6 @@
 This repository collects a selection of my **hackathon and team projects**.  
 All projects below were developed collaboratively under time constraints (hackathons / sprint formats). For each project I list the original repo and a clear summary of **my contributions** so reviewers can quickly see what I actually built.
 
-> Projects and descriptions are based on my project summary. (See Projects document for more context.) :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -57,12 +56,6 @@ All projects below were developed collaboratively under time constraints (hackat
 - Worked on frontend interactions, swipe-based discovery UI and integration with backend endpoints.  
 - Helped wire up real-time features and testing during the event.  
 **Tech:** React, Firebase/Firestore, FastAPI (backend).
-
----
-
-## 📌 Notes & How to verify my contributions
-- These repos are linked to original team owners. My specific contributions are summarized above and can be cross-checked in commit history, PRs, or release/demo notes in the original repos.  
-- If you want a quick walkthrough of any project, I can prepare a 3-slide Google Slides demo or short video showing my changes and the key files I authored.
 
 ---
 
